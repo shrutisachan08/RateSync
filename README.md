@@ -1,5 +1,5 @@
-## CP Rating Converter
-CP Rating Converter is a web-based tool designed to convert CodeChef ratings to Codeforces ratings and vice versa. The project analyzes the relationship between ratings on these two platforms using data analysis techniques. The front end is built using HTML, CSS, and JavaScript, while the backend utilizes Python for data processing and visualization.
+## RateSync
+RateSync is a web-based tool designed to convert CodeChef ratings to Codeforces ratings and vice versa. The project analyzes the relationship between ratings on these two platforms using data analysis techniques. The front end is built using HTML, CSS, and JavaScript, while the backend utilizes Python for data processing and visualization.
 
 ## Features
 Rating Conversion: Converts CodeChef ratings to Codeforces ratings and vice versa. Correlation Analysis: Computes the correlation between CodeChef and Codeforces ratings. Data Visualization: Generates scatter plots and regression lines to visualize the relationship between the two ratings. Technologies Used
